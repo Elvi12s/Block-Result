@@ -1,0 +1,15 @@
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\bin\Debug\net6.0\1st Quarter.exe
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\bin\Debug\net6.0\1st Quarter.deps.json
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\bin\Debug\net6.0\1st Quarter.runtimeconfig.json
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\bin\Debug\net6.0\1st Quarter.dll
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\bin\Debug\net6.0\1st Quarter.pdb
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.csproj.AssemblyReference.cache
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.AssemblyInfoInputs.cache
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.AssemblyInfo.cs
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.csproj.CoreCompileInputs.cache
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.dll
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\refint\1st Quarter.dll
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.pdb
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\1st Quarter.genruntimeconfig.cache
+D:\My Documents\ТЕСТИРОВЩИК\Block Result\1st Quarter\obj\Debug\net6.0\ref\1st Quarter.dll
